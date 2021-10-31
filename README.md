@@ -12,3 +12,9 @@
 
 - HTML
 - CSS Flexbox
+
+## Lessons Learned: 
+
+- Using the inspector tool to select components and alter CSS styles locally
+- Using flexbox to build responsive websites
+- Creating a form using HTML
