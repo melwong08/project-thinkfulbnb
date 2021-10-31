@@ -1,5 +1,7 @@
 # Vacation Home Rental
 
+Vacation Home Rental is a website where users can find rental homes suited for their desired vacation spot. 
+
 ## Screenshots
 
 ### Mobile View
